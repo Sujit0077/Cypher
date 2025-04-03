@@ -5,16 +5,16 @@
 
 ## Deployed Cypher
 
-- You can access the deployed version of this project here - [Deploy Link](https://explore-mohitjaiswal.netlify.app/)
+- You can access the deployed version of this project here - [Deploy Link](https://sujitcypher.netlify.app/)
 
-- Search in your browser - [explore-mohitjaiswal.netlify.app](https://explore-mohitjaiswal.netlify.app/)
+- Search in your browser - [explore-mohitjaiswal.netlify.app](https://sujitcypher.netlify.app/)
 
 
 
 ## How to run the project ?
 To run the project use following steps:
 
-- Clone the repository ```git@github.com:mohitjaiswal28/Explore.git```
+- Clone the repository ```https://github.com/Sujit0077/Cypher.git```
 - Navigate to project directory with ```cd your-project-dir-name```
 - Run ```npm install```
 - To start the server, run ```npm run start```
